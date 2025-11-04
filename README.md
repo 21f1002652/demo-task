@@ -1,4 +1,4 @@
-# Auto-generated README (Round 2)
+# Auto-generated README (Round 1)
 
 **Project brief:** Build a simple HTML page
 
